@@ -1,0 +1,296 @@
+{
+  "individual_tests": [
+    {
+      "test_number": 1,
+      "question": "How does the MHPI funding structure balance DoD housing policy goals with private-sector incentives, and what inherent risk does this create?",
+      "category": "direct_fact",
+      "keywords": [
+        "MHPI",
+        "DoD housing policy",
+        "private-sector incentives",
+        "revenue allocation",
+        "maintenance reserves",
+        "developer profits",
+        "long-term risk"
+      ],
+      "generated_answer": "**How the MHPI funding structure balances DoD housing policy goals with private\u2011sector incentives**\n\n| DoD housing\u2011policy goal | How the MHPI structure supports it | Private\u2011sector incentive it creates |\n|--------------------------|-----------------------------------|--------------------------------------|\n| **Affordable, quality housing that reflects contemporary community standards** | \u2022 The program authorizes private financing for repair, renovation, construction, and long\u2011term operation of military family housing. <br>\u2022 Lease\u2011land and conveyance arrangements give developers a stable, 50\u2011year horizon to invest in upgrades that would otherwise be unaffordable for the government. | \u2022 Developers can recover their capital outlay and earn a return over the lease term, encouraging them to invest in higher\u2011quality construction and ongoing maintenance. |\n| **Eligibility based on rank and dependent status, with housing that mirrors civilian community living** | \u2022 By leveraging private\u2011sector expertise, the military can adopt design and amenity standards that are common in the surrounding civilian market, thereby \u201creflecting contemporary community living standards.\u201d | \u2022 Private partners are motivated to deliver amenities that are attractive to renters in the open market, which can be marketed as a premium service to service members. |\n| **Fiscal responsibility and long\u2011term sustainability** | \u2022 The 50\u2011year lease provides a predictable cash\u2011flow for the government while shifting the upfront capital burden to the private sector. | \u2022 Private investors are willing to commit large upfront sums because",
+      "reference_answer": "The structure prioritizes operating costs, debt service, and scheduled maintenance before allocating profits, aligning with DoD goals of sustainable, quality housing. It incentivizes private developers through long-term leases, management fees, and residual profit sharing. However, it risks degraded long-term housing quality if developers minimize maintenance or delay renovations to maximize returns.",
+      "retrieval": {
+        "mrr": 1.0,
+        "ndcg": 1.0,
+        "keyword_coverage": 14.285714285714285,
+        "keywords_found": 1
+      },
+      "answer": {
+        "accuracy": 1.4285714285714284,
+        "completeness": 3.0,
+        "relevance": 0.4216867469879518,
+        "feedback": "Missing keywords: private-sector incentives, revenue allocation, maintenance reserves | Answer too long - could be more concise | Answer diverges from reference - may have hallucinations"
+      }
+    },
+    {
+      "test_number": 2,
+      "question": "How do ATF and USMS misconduct investigation and adjudication structures balance centralized oversight with decentralized decision-making, and what internal control weakness most threatens consistency and accountability?",
+      "category": "direct_fact",
+      "keywords": [
+        "Employee misconduct",
+        "ATF",
+        "USMS",
+        "DOJ OIG",
+        "Internal Affairs",
+        "adjudication process",
+        "supervisory review",
+        "internal controls",
+        "decentralization",
+        "accountability"
+      ],
+      "generated_answer": "**Balancing Centralized Oversight with Decentralized Decision\u2011Making**\n\n| Aspect | ATF | USMS |\n|--------|-----|------|\n| **Policy\u2011setting authority** | The ATF Director (and senior headquarters components) issue agency\u2011wide policies, procedures, and \u201cquality standards\u201d that spell out the steps investigators and adjudicators must follow.  These policies are meant to be applied uniformly across all field offices. | The USMS Director (and the Office of Professional Responsibility) issue similar directives that govern how allegations are received, investigated, and disciplined.  The guidance is intended to be agency\u2011wide, but implementation is delegated to each district and division. |\n| **Decentralized execution** | Field offices (e.g., field offices, regional labs, and component units) conduct the **initial intake, fact\u2011finding, and recommendation** phases.  They have discretion over investigative tactics, interview strategies, and the timing of case referrals, provided they stay within the policy framework. | USMS districts and divisions conduct the **investigative work and the bulk of disciplinary decision\u2011making**.  Each district tailors its case\u2011management approach to local workload and operational realities, again under the umbrella of national policy. |\n| **Centralized checks** | \u2022 **Compliance Review Office** (within the Office of Professional Responsibility) conducts on\u2011site management reviews of districts and divisions.<br>\u2022 **Annual self\u2011assessment** requirements compel districts to report on the status of their internal\u2011control activities.<br>\u2022 **Supervisory review** of investigations is mandated by policy, but the documentation of that review is not consistently captured. | \u2022 **Compliance Review Office** also performs on\u2011site reviews of USMS districts.<br>\u2022 **Annual self\u2011assessment** program requires districts to attest to the implementation",
+      "reference_answer": "Both agencies centralize oversight through DOJ OIG\u2019s right of first refusal and Internal Affairs for serious cases, while decentralizing lower-level investigations and discipline to divisions or local management to improve efficiency. However, inconsistent documentation and monitoring of key internal controls\u2014especially supervisory review in USMS district and division investigations\u2014undermine accountability, consistency, and confidence in outcomes.",
+      "retrieval": {
+        "mrr": 1.0,
+        "ndcg": 4.7299270072992705,
+        "keyword_coverage": 80.0,
+        "keywords_found": 8
+      },
+      "answer": {
+        "accuracy": 1.5,
+        "completeness": 3.0,
+        "relevance": 0.31413612565445026,
+        "feedback": "Missing keywords: Employee misconduct, DOJ OIG, Internal Affairs | Answer too long - could be more concise | Answer diverges from reference - may have hallucinations"
+      }
+    },
+    {
+      "test_number": 3,
+      "question": "Why have most federal agencies failed to demonstrate clear progress toward environmental justice goals despite widespread adoption of strategic plans, and what structural gap most undermines accountability?",
+      "category": "direct_fact",
+      "keywords": [
+        "Environmental justice",
+        "Executive Order 12898",
+        "strategic planning",
+        "interagency working group",
+        "performance measures",
+        "progress reports",
+        "accountability",
+        "mission alignment"
+      ],
+      "generated_answer": "**Why progress is hard to see**\n\n1. **Strategic plans exist, but they are not linked to measurable outcomes.**  \n   - Only about half of the agencies that created post\u20112011 environmental\u2011justice (EJ) strategic plans actually *explain* how those plans fit with the agency\u2019s overall mission.  \n   - The other half leave that connection vague, so the plans become \u201cpaper exercises\u201d rather than road\u2011maps that can be tracked.\n\n2. **No consistent, required reporting on results.**  \n   - The 2011 MOU obligated agencies to issue *annual* progress reports, yet most have not done so every year.  \n   - Only a handful of agencies (e.g., DHS, Justice, GSA in earlier years) have maintained a regular reporting cadence. The absence of a yearly report means there is no public or internal record of what has been accomplished, what obstacles remain, or whether resources are being used effectively.\n\n3. **Missing performance\u2011measurement and assessment tools.**  \n   - Few agencies have established clear performance metrics, indicators, or evaluation methods for their EJ goals.  \n   - Without such tools, \u201cprogress\u201d cannot be quantified; agencies can only claim activity (e.g., \u201cwe held a workshop\u201d) without showing impact.\n\n4. **Strategic plans are rarely refreshed.**  \n   - As GAO noted in September\u202f2019, many agencies have not updated their E",
+      "reference_answer": "Although most agencies developed environmental justice strategic plans after the 2011 MOU, they largely failed to update plans regularly, issue annual progress reports, or establish performance measures to assess outcomes. The key structural gap is the absence of consistent guidance and oversight\u2014particularly from the interagency working group\u2014on how agencies should align environmental justice goals with agency missions and measure progress, resulting in activity-focused reporting rather than demonstrable results.",
+      "retrieval": {
+        "mrr": 1.0,
+        "ndcg": 1.6204379562043798,
+        "keyword_coverage": 50.0,
+        "keywords_found": 4
+      },
+      "answer": {
+        "accuracy": 0.625,
+        "completeness": 3.0,
+        "relevance": 0.6284153005464481,
+        "feedback": "Missing keywords: Environmental justice, Executive Order 12898, strategic planning | Answer too long - could be more concise | Answer diverges from reference - may have hallucinations"
+      }
+    },
+    {
+      "test_number": 4,
+      "question": "Why did federal data center consolidation efforts continue to show mixed results despite expanded authority under FITARA and DCOI, and what factor most limited measurable cost savings?",
+      "category": "direct_fact",
+      "keywords": [
+        "FDCCI",
+        "FITARA",
+        "DCOI",
+        "federal data centers",
+        "optimization metrics",
+        "cost savings",
+        "IT Dashboard",
+        "OMB oversight",
+        "inventory accuracy"
+      ],
+      "generated_answer": "Federal data\u2011center consolidation continued to produce mixed results because, even after FITARA gave OMB expanded authority and the 2016 DCOI memorandum laid out clear consolidation and optimization requirements, many agencies still had **weak or incomplete consolidation plans and strategies**.  The key limitation that prevented the full, measurable cost\u2011savings that were promised was **OMB\u2019s insufficient tracking, verification, and reporting of agency\u2011level progress**\u2014the data needed to confirm that planned savings were actually being realized were not consistently available or reliable.  As a result, while agencies reported billions in savings, the lack of robust, comprehensive agency strategies and OMB\u2019s ability to monitor and validate those strategies kept the overall cost\u2011saving impact from reaching its full potential.",
+      "reference_answer": "Although FITARA and DCOI strengthened requirements for inventories, optimization metrics, and public reporting, agencies struggled with inconsistent data center definitions, incomplete inventories, weak strategic plans, and uneven implementation of optimization metrics. The most limiting factor for measurable cost savings was inconsistent and incomplete reporting of cost savings targets and achievements, which undermined accountability and obscured true consolidation and optimization outcomes.",
+      "retrieval": {
+        "mrr": 1.0,
+        "ndcg": 3.7226277372262775,
+        "keyword_coverage": 55.55555555555556,
+        "keywords_found": 5
+      },
+      "answer": {
+        "accuracy": 1.1111111111111112,
+        "completeness": 3.0,
+        "relevance": 0.5691056910569106,
+        "feedback": "Missing keywords: FDCCI, federal data centers, optimization metrics | Answer too long - could be more concise | Answer diverges from reference - may have hallucinations"
+      }
+    },
+    {
+      "test_number": 5,
+      "question": "Why did NNSA re-scope the Uranium Processing Facility (UPF) project, and how does this revised approach increase reliance on effective program management rather than project management alone?",
+      "category": "direct_fact",
+      "keywords": [
+        "NNSA",
+        "Uranium Processing Facility (UPF)",
+        "Y-12 National Security Complex",
+        "re-scoping",
+        "program management",
+        "DOE Order 413.3B",
+        "technology readiness levels (TRL)",
+        "cost and schedule risk"
+      ],
+      "generated_answer": "**Why NNSA re\u2011scoped the Uranium Processing Facility (UPF) project**\n\n1. **Stabilising escalating costs and technical risk** \u2013  \n   The original UPF baseline was proving unsustainable.  Costs were rising, the technical design was becoming increasingly complex, and the schedule was slipping.  In September\u202f2017 the Office of Enterprise Assessments noted that the improvements NNSA had made to its cost\u2011estimate and schedule processes could help \u201cstabilize escalating project costs and technical risks experienced under the previous strategy.\u201d  Rather than continue to pour resources into an expanding, high\u2011risk baseline, NNSA decided to **re\u2011scope** the effort so that it could be delivered **within the original cost and schedule limits** that had been set when the project was first conceived.\n\n2. **Reducing mission dependency on the aging Building\u202f9212** \u2013  \n   Building\u202f9212, built in 1945, does not meet modern nuclear\u2011safety standards and houses the legacy uranium\u2011purification and casting capabilities that the agency wants to retire.  The re\u2011scoped UPF is a key element of a **four\u2011phase exit strategy** that will eventually shut down Building\u202f9212.  By redefining the UPF\u2019s scope, NNSA can transition production to a modern, safer facility while still meeting the agency\u2019s overall modernization goals.\n\n3. **Aligning with a portfolio\u2011wide, integrated management approach** \u2013  \n   The uranium program does not exist in isolation; it is tightly linked to other weapon\u2011modernization efforts (e.g., plutonium pit production, tritium and lithium management, radiation\u2011hardened microelectronics, depleted\u2011uranium processing).  Managing these interdependencies requires **coordinated, portfolio\u2011level oversight** rather than treating each project as a stand\u2011alone venture.\n\n---\n\n**How the revised approach increases reliance on effective *program* management rather than project management alone**\n\n| Aspect | Project\u2011Management\u2011Only Approach | Program\u2011Management\u2011Enhanced Approach |\n|--------|----------------------------------|--------------------------------------|\n| **Scope definition** | Focuses on delivering a single, narrowly defined work\u2011breakdown structure (WBS",
+      "reference_answer": "NNSA re-scoped the UPF after escalating cost estimates, space constraints, and schedule risks made a single, consolidated facility impractical within the $6.5 billion cost cap. The revised approach distributes uranium processing capabilities across a smaller UPF and upgraded legacy facilities, increasing interdependencies among multiple projects. This shift heightens the need for strong program management to coordinate scope, schedule, technology readiness, and risk across facilities to ensure mission continuity and safe phase-out of high-risk operations in Building 9212.",
+      "retrieval": {
+        "mrr": 1.0,
+        "ndcg": 1.7664233576642336,
+        "keyword_coverage": 37.5,
+        "keywords_found": 3
+      },
+      "answer": {
+        "accuracy": 1.25,
+        "completeness": 3.0,
+        "relevance": 0.5982905982905983,
+        "feedback": "Missing keywords: Y-12 National Security Complex, re-scoping, program management | Answer too long - could be more concise | Answer diverges from reference - may have hallucinations"
+      }
+    },
+    {
+      "test_number": 6,
+      "question": "How do DOE Order 413.3B requirements for independent cost estimates and technology readiness assessments aim to reduce risk in the UPF project, and why may these controls be insufficient without early transition-to-operations planning?",
+      "category": "direct_fact",
+      "keywords": [
+        "DOE Order 413.3B",
+        "independent cost estimate",
+        "external independent review",
+        "technology readiness levels",
+        "transition to operations",
+        "nuclear facility risk",
+        "UPF"
+      ],
+      "generated_answer": "**How DOE Order\u202f413.3B Uses Independent Cost Estimates and Technology\u2011Readiness Assessments to Reduce UPF Risk**\n\n| Requirement in DOE Order\u202f413.3B | What the Order Calls For | How It Is Applied to the Uranium Processing Facility (UPF) | Why It Lowers Project Risk |\n|--------------------------------|--------------------------|------------------------------------------------------------|----------------------------|\n| **Independent Cost Estimates (ICEs)** | \u2022 Require that an *independent* cost\u2011estimation team develop its own \u201cbest\u2011practice\u201d estimate of the project\u2019s total cost and schedule.<br>\u2022 The estimate must be based on a detailed work\u2011breakdown structure, vendor quotes, labor\u2011hour studies, and a resource\u2011loaded schedule.<br>\u2022 The ICE must be reviewed and approved before the project reaches each **Critical Decision (CD)** gate (especially CD\u20111, CD\u20112 and CD\u20114). | \u2022 DOE\u2011PM (Defense Nuclear Facilities Management Program) produced *four* independent cost and schedule estimates for the UPF sub\u2011projects.<br>\u2022 They examined key cost drivers (major equipment, materials, labor, subcontracts) and built a separate resource\u2011loaded schedule to compare against the project\u2019s own funding profile.<br>\u2022 The ICEs were used to benchmark the UPF\u2019s cost baseline and to flag \u201chigh\u2011sensitivity\u201d items that could drive cost overruns. | \u2022 By having a *separate* team calculate costs, the project cannot hide optimistic assumptions or \u201cgaming\u201d of numbers.<br>\u2022 Early identification of cost\u2011driving items forces managers to either re\u2011scope, find cheaper alternatives, or secure additional funding before committing to design or construction.<br>\u2022 The ICE process creates a documented audit trail that can be compared against actual spend, making cost overruns easier to detect. |\n| **Technology\u2011Readiness Assessments (TRAs)",
+      "reference_answer": "Independent cost estimates and external independent reviews validate the realism of cost and schedule baselines, while technology readiness assessments ensure critical technologies reach sufficient maturity before construction approval. However, without early transition-to-operations planning, risks can persist after construction\u2014such as integration failures or delayed operational capability\u2014especially in complex nuclear facilities where safety, staffing, and system integration challenges extend beyond project completion.",
+      "retrieval": {
+        "mrr": 1.0,
+        "ndcg": 1.6569343065693434,
+        "keyword_coverage": 42.857142857142854,
+        "keywords_found": 3
+      },
+      "answer": {
+        "accuracy": 1.4285714285714284,
+        "completeness": 3.0,
+        "relevance": 0.4040404040404041,
+        "feedback": "Missing keywords: DOE Order 413.3B, external independent review, technology readiness levels | Answer too long - could be more concise | Answer diverges from reference - may have hallucinations"
+      }
+    },
+    {
+      "test_number": 7,
+      "question": "Why does GAO require agencies to satisfy all five high-risk removal criteria rather than simply implement GAO recommendations, and how does this approach address systemic management weaknesses?",
+      "category": "direct_fact",
+      "keywords": [
+        "GAO High-Risk List",
+        "systemic management weaknesses",
+        "leadership commitment",
+        "corrective action plan",
+        "monitoring",
+        "demonstrated progress"
+      ],
+      "generated_answer": "**Why GAO demands that agencies meet *all five* high\u2011risk removal criteria, not just \u201cimplement the recommendation\u201d**\n\n1. **The problem is systemic, not merely procedural**  \n   - GAO\u2019s prior work shows that a high\u2011risk designation is usually the outward symptom of deeper, organization\u2011wide management weaknesses (e.g., lack of leadership focus, insufficient resources, fragmented processes).  \n   - Simply ticking off a single recommendation addresses a *symptom* but does not cure the underlying structural flaws that produced the risk in the first place.\n\n2. **The five criteria together create a holistic \u201cremoval package\u201d**  \n   - **Leadership Commitment** \u2013 senior officials must visibly champion the fix; without that, corrective actions lack authority and staying power.  \n   - **Capacity** \u2013 the agency must have the people, budget, and technical expertise to execute the solution.  \n   - **Action Plan** \u2013 a documented, root\u2011cause\u2011driven plan that specifies what will be done, by whom, and when.  \n   - **Monitoring** \u2013 an independent, ongoing oversight mechanism that validates that the corrective measures are working and sustainable.  \n   - **Demonstrated Progress** \u2013 measurable evidence that the agency is actually improving its processes (e.g., better cost\u2011estimation controls, more reliable IT security).  \n\n   Only when **all** of these elements are present can GAO be confident that the agency has moved beyond \u201cchecking a box\u201d to truly reshaping how it manages the risk.\n\n3. **Implementation alone would not guarantee sustainability**  \n   - GAO notes that \u201cimplementing our recommendations alone will not result in the removal of the high\u2011risk designation, because the condition that led",
+      "reference_answer": "GAO requires agencies to meet all five criteria because individual recommendations address symptoms of deeper, systemic management problems rather than their root causes. The criteria collectively ensure sustained leadership commitment, adequate capacity, structured corrective planning, independent monitoring, and demonstrable results\u2014reducing the risk that improvements are temporary or isolated and increasing the likelihood of lasting transformation before a high-risk designation is removed.",
+      "retrieval": {
+        "mrr": 1.0,
+        "ndcg": 2.5547445255474455,
+        "keyword_coverage": 83.33333333333334,
+        "keywords_found": 5
+      },
+      "answer": {
+        "accuracy": 2.5,
+        "completeness": 3.0,
+        "relevance": 0.5097087378640777,
+        "feedback": "Missing keywords: GAO High-Risk List, systemic management weaknesses, corrective action plan | Answer too long - could be more concise | Answer diverges from reference - may have hallucinations"
+      }
+    },
+    {
+      "test_number": 8,
+      "question": "How do GAO\u2019s progress ratings (met, partially met, not met) reinforce sustained accountability for high-risk areas, and why is partial progress insufficient for removal from the High-Risk List?",
+      "category": "direct_fact",
+      "keywords": [
+        "GAO High-Risk List",
+        "progress ratings",
+        "accountability",
+        "systemic risk",
+        "sustained oversight"
+      ],
+      "generated_answer": "**How GAO\u2019s \u201cMet\u202f\u2013\u202fPartially met\u202f\u2013\u202fNot met\u201d ratings keep high\u2011risk areas under continual accountability**\n\n| Rating | What it means in practice | How it reinforces accountability |\n|--------|---------------------------|-----------------------------------|\n| **Met** | The agency has taken the actions required by the criterion; there are no further significant steps needed to satisfy that criterion. | When a criterion is *met*, the agency can point to concrete, completed work that demonstrates it is fully addressing the underlying weakness. The GAO can then certify that the agency has met that particular pillar of the removal roadmap. |\n| **Partially met** | Some, but not all, of the required actions have been taken; additional work remains to fully satisfy the criterion. | A \u201cpartial\u201d rating signals that the agency is moving in the right direction, but it has not yet closed the gap. The GAO continues to monitor the missing pieces, and the agency must show a clear plan and timetable for completing them. |\n| **Not met** | Few, if any, actions toward meeting the criterion have been taken. | This rating flags a serious shortfall and triggers intensified oversight, possible corrective\u2011action orders, and heightened reporting to Congress. |\n\nBy applying these three discrete labels to each of the five statutory criteria (leadership commitment, capacity, action plan, monitoring, demonstrated progress), the GAO creates a **transparent, criterion\u2011by\u2011criterion scorecard** for every high\u2011risk area. The scorecard does three things that reinforce sustained accountability:\n\n1. **Granular Tracking** \u2013 Agencies cannot hide behind vague \u201cprogress\u201d statements. Each criterion is evaluated separately, so any weakness in a single pillar is exposed.\n2. **Iterative Review Cycle** \u2013 The GAO updates the ratings in each annual (or semi\u2011annual) high\u2011risk assessment. Agencies must therefore **continuously improve**; a single year of \u201cmet\u201d status does not guarantee future removal.\n3. **Public",
+      "reference_answer": "The rating system provides a structured, transparent way to assess agency actions across all five removal criteria and discourages selective or short-term fixes. Partial progress is insufficient because unresolved gaps in leadership, capacity, monitoring, or demonstrated results can allow systemic weaknesses to persist, risking regression once oversight pressure diminishes.",
+      "retrieval": {
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "keyword_coverage": 0.0,
+        "keywords_found": 0
+      },
+      "answer": {
+        "accuracy": 1.0,
+        "completeness": 3.0,
+        "relevance": 0.3686635944700461,
+        "feedback": "Missing keywords: GAO High-Risk List, progress ratings, systemic risk | Answer too long - could be more concise | Answer diverges from reference - may have hallucinations"
+      }
+    },
+    {
+      "test_number": 9,
+      "question": "How does reliance on federal shared service providers (SSPs) complicate agency accountability for DATA Act data quality, despite senior accountable official certification requirements?",
+      "category": "direct_fact",
+      "keywords": [
+        "DATA Act",
+        "USAspending.gov",
+        "shared service providers (SSPs)",
+        "data quality",
+        "senior accountable official",
+        "service-level agreements",
+        "accountability"
+      ],
+      "generated_answer": "Reliance on federal shared\u2011service providers (SSPs) creates a accountability gap for DATA Act data quality even though agencies must have a senior accountable official certify the information. The context shows that many agencies depend on their SSP to **prepare, validate, and finalize the DATA Act files**\u2014often delivering them only at the last minute or with incomplete, inaccurate, or extraneous data. Because the SSP may lack a senior project manager to oversee these processes, errors can remain unresolved and agencies may not have enough time to test or apply internal controls before the data are published. Consequently, when an agency\u2019s senior accountable official signs off on the data, the underlying quality of that data may already be compromised by the SSP\u2019s shortcomings, making it difficult for the agency to guarantee\u2014 and be held responsible for\u2014 the accuracy and completeness of the reported information. This dependency \u201cincreases the risk that agencies may be unable to certify and publish their DATA Act submissions\u201d and can undermine the intended accountability of the senior accountable official certification.",
+      "reference_answer": "While SSPs perform critical functions in preparing and submitting DATA Act files, agencies remain legally accountable for data accuracy and certification. This division of responsibility can blur ownership of errors\u2014such as timing, coding, or validation issues\u2014especially when SSP roles are not clearly defined in service-level agreements, weakening end-to-end accountability for data quality.",
+      "retrieval": {
+        "mrr": 1.0,
+        "ndcg": 1.9489051094890513,
+        "keyword_coverage": 57.14285714285714,
+        "keywords_found": 4
+      },
+      "answer": {
+        "accuracy": 2.8571428571428568,
+        "completeness": 3.0,
+        "relevance": 0.6617647058823529,
+        "feedback": "Missing keywords: USAspending.gov, shared service providers (SSPs), service-level agreements | Answer too long - could be more concise | Answer diverges from reference - may have hallucinations"
+      }
+    },
+    {
+      "test_number": 10,
+      "question": "How do federal agencies' use of shared service providers (SSPs) for DATA Act reporting create challenges in ensuring data quality, and what internal control weakness most threatens accountability?",
+      "category": "direct_fact",
+      "keywords": [
+        "DATA Act",
+        "shared service providers (SSPs)",
+        "data quality",
+        "internal controls",
+        "accountability",
+        "service-level agreements"
+      ],
+      "generated_answer": "**How the use of SSPs creates data\u2011quality challenges for DATA Act reporting**\n\n| Challenge | Why it matters for data quality | Example from the GAO survey |\n|-----------|--------------------------------|-----------------------------|\n| **Limited capacity to deliver data on time** | Agencies must have enough lead\u2011time to test, validate, and apply internal controls before the data are posted on USAspending.gov. When SSPs miss the deadline, agencies cannot complete these steps, so the published data may be inaccurate or incomplete. | One agency noted that the SSP\u2019s late data delivery left insufficient time to test and implement controls, degrading data quality even though the submission deadline was still met. |\n| **Insufficient senior oversight / project\u2011management resources at the SSP** | Without a dedicated senior manager who owns the financial\u2011management services workflow, agencies lack a clear point of contact for issue resolution. Errors can linger, and agencies may be unable to correct them before submission. | An agency reported that \u201cthere is no senior project manager at the SSP who oversees the processes used to provide financial management services,\u201d increasing the risk of unresolved errors. |\n| **Competing priorities and conflicting statutory/regulatory requirements** | Agencies must juggle fiscal\u2011year\u2011end closings, audit deadlines, and other mandates. When a DATA Act reporting window overlaps with these competing demands, agencies may deprioritize data\u2011quality activities. | An agency\u2019s fourth\u2011quarter DATA Act deadline fell within its fiscal\u2011year\u2011end reporting window, forcing it to prioritize year\u2011end reporting over some DATA Act tasks. |\n| **Inconsistent or extraneous data delivered by the SSP** | SSPs sometimes return files that contain non\u2011required transactions or incomplete certification files. This forces agencies to spend extra effort cleaning the data and can introduce errors. | One agency\u2019s SSP included extraneous transactions in File\u202fC, generating a high volume of warning messages during the Broker\u2019s validation",
+      "reference_answer": "Agencies relying on SSPs for DATA Act reporting face challenges in maintaining data quality due to unclear delineation of responsibilities and insufficient oversight of SSP performance. The most significant internal control weakness threatening accountability is the lack of comprehensive service-level agreements that clearly define SSP roles, responsibilities, and performance metrics, leading to gaps in monitoring and ensuring data accuracy.",
+      "retrieval": {
+        "mrr": 1.0,
+        "ndcg": 1.489051094890511,
+        "keyword_coverage": 66.66666666666666,
+        "keywords_found": 4
+      },
+      "answer": {
+        "accuracy": 2.5,
+        "completeness": 3.0,
+        "relevance": 0.4794520547945205,
+        "feedback": "Missing keywords: shared service providers (SSPs), accountability, service-level agreements | Answer too long - could be more concise | Answer diverges from reference - may have hallucinations"
+      }
+    }
+  ],
+  "summary": {
+    "total_tests": 10,
+    "avg_accuracy": 1.6200396825396826,
+    "avg_completeness": 3.0,
+    "avg_relevance": 0.495526395958776,
+    "avg_mrr": 0.9,
+    "avg_ndcg": 2.048905109489051,
+    "avg_keyword_coverage": 48.73412698412697
+  }
+}
